@@ -1,0 +1,78 @@
+{
+    "Configuration": 
+    {
+        "Theme": 
+        {
+            "DefaultOverride": true,
+            "DefaultTheme": 
+            {
+                "MainBackground": "http://game.gtimg.cn/images/lol/act/a20240105joyclublistphase3/bg.mp4",
+                "DetailRecordBackground": "http://game.gtimg.cn/images/lol/act/a20240329joyclublistphase6/bg.mp4",
+                "GameDetailBackground": "http://game.gtimg.cn/images/lol/act/a20240528joyclublistphase8/bg.mp4",
+                "ChampConfigBackground": "http://game.gtimg.cn/images/lol/act/a20240123joyclublistphase4/bg.mp4",
+                "ColorScheme":
+                {
+                    "MaskOpacity":0.7,
+                    "ForegroundColor":"#F0F0F0",
+                    "BackgroundColor":"#13171F",
+                    "FocusgroundColor":"Crimson",
+                    "HoverBackgroundColor":"#32363E",
+                    "LinearBackgroundColor":"#1E222A",
+                    "MainTitleGlowColor":"DeepPink",
+                    "WinShadowColor":"#4C9E9E",
+                    "ToggleButtonUncheckedBackColor":"LightSteelBlue",
+                    "ToggleButtonCheckedBackColor":"Crimson",
+                    "Foreground":"#F0F0F0",
+                    "Background":"#13171F",
+                    "BorderBrush":"#28353D",
+                    "LinearBackground":"#1E222A",
+                    "AlphaBorderBrush":"#CC28353D",
+                    "Focusground":"Crimson",
+                    "SecondaryBrush":"#9F9F9F",
+                    "HoverBackground":"#32363E",
+                    "ScrollBarBackground":"#506C6C",
+                    "ScrollBarHoverBackground":"#326C6C",
+                    "ToggleButtonForeground":"#F0F0F0",
+                    "MPForeground":"DeepSkyBlue",
+                    "AttackSpeedForeground":"#FFC125",
+                    "BuffPositiveForeground":"LightGreen",
+                    "BuffUnPositiveForeground":"Red",
+                    "BuffAdjustForeground":"DarkOrange",
+                    "MainTitleBrush":"MediumOrchid"
+                }
+            }
+        },
+        "Update": 
+        {
+            "Version": "2.5.9.2466",
+            "DownloadUrl": "https://lianxin1418.lanzoul.com/inVnP21859cd",
+            "UpdateMessage": [],
+            "ShouldCheckUpdate": true,
+            "ForceUpdate": true
+        },
+        "Authentication": 
+        {
+            "AllUsers": true,
+            "TemporaryAllows": 
+            {
+                "Allows": false,
+                "BeginHour": 23,
+                "BeginMinute": 0,
+                "EndHour": 11,
+                "EndMinute": 0
+            },
+            "MachineVerify":"https://files.cnblogs.com/files/blogs/748001/Machines.json",
+            "BlockedVerify": "https://files.cnblogs.com/files/blogs/748001/Blockeds.json",
+            "UnauthorizedMessage": "该用户尚未授权，请加入QQ群（864753201）；发送Puuid或游戏账号并@群主以获取使用权限；以下时间段为免验证时间段：23:00 - 11:00。\n\n- 外服请发送Puuid（{0}）进行授权；\n- 国服请发送账号（{1}）进行授权；\n\n· 请待授权完成后点击重试按钮，有时并不能及时授权，请耐心等待。\n· 注意，授权会不定期清除，除群成员外的所有Puuid及账号授权将每隔一段时间统一清除以确保不会造成资源浪费。\n授权只是为了避免部分人倒卖软件造成他人经济损失，还请理解。"
+        },
+        "CasualModes": 
+        [
+            "ARAM",
+            "URF",
+            "ULTBOOK",
+            "CHERRY",
+            "NEXUSBLITZ",
+            "ONEFORALL"
+        ]
+    }
+}
