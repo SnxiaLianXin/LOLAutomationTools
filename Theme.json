@@ -1,0 +1,40 @@
+{
+    "DefaultOverride": true,
+    "DefaultTheme": 
+    {
+        "MainBackground": "http://game.gtimg.cn/images/lol/act/a20240105joyclublistphase3/bg.mp4",
+        "DetailRecordBackground": "http://game.gtimg.cn/images/lol/act/a20240329joyclublistphase6/bg.mp4",
+        "GameDetailBackground": "http://game.gtimg.cn/images/lol/act/a20240528joyclublistphase8/bg.mp4",
+        "ChampConfigBackground": "http://game.gtimg.cn/images/lol/act/a20240123joyclublistphase4/bg.mp4",
+        "ColorScheme": 
+        {
+            "MaskOpacity": 0.7,
+            "ForegroundColor": "#F0F0F0",
+            "BackgroundColor": "#13171F",
+            "FocusgroundColor": "Crimson",
+            "HoverBackgroundColor": "#32363E",
+            "LinearBackgroundColor": "#1E222A",
+            "MainTitleGlowColor": "DeepPink",
+            "WinShadowColor": "#4C9E9E",
+            "ToggleButtonUncheckedBackColor": "LightSteelBlue",
+            "ToggleButtonCheckedBackColor": "Crimson",
+            "Foreground": "#F0F0F0",
+            "Background": "#13171F",
+            "BorderBrush": "#28353D",
+            "LinearBackground": "#1E222A",
+            "AlphaBorderBrush": "#CC28353D",
+            "Focusground": "Crimson",
+            "SecondaryBrush": "#9F9F9F",
+            "HoverBackground": "#32363E",
+            "ScrollBarBackground": "#506C6C",
+            "ScrollBarHoverBackground": "#326C6C",
+            "ToggleButtonForeground": "#F0F0F0",
+            "MPForeground": "DeepSkyBlue",
+            "AttackSpeedForeground": "#FFC125",
+            "BuffPositiveForeground": "LightGreen",
+            "BuffUnPositiveForeground": "Red",
+            "BuffAdjustForeground": "DarkOrange",
+            "MainTitleBrush": "MediumOrchid"
+        }
+    }
+}
