@@ -199,7 +199,7 @@
 在游戏需要重新连接时尝试进行重新连接。
 
 ## 自动选牌（额外扩展）
-将PickCards.json文件放入配置目录下时生效。当前游戏中使用的英雄为卡牌大师时，使用Z/X/C键自动选择蓝/红/黄牌
+将PickCards.json文件放入配置目录（文档-LOLAutomationTools-DATA-Config）下时生效。当前游戏中使用的英雄为卡牌大师时，使用 Z/X/C 键自动选择 蓝/红/黄 牌
 ![pickCards](https://github.com/user-attachments/assets/df5aa45a-8593-44c9-8c3f-bec315552113)
 
 > ### 注意项：
