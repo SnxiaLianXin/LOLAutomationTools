@@ -1,12 +1,13 @@
 {
-    "Version": "2.9.794.5912",
-    "DownloadUrl": "https://gitee.com/seraph1ne/lolautomation-tools/releases/tag/v2.9.794.5912",
+    "Version": "2.9.801.3452",
+    "DownloadUrl": "https://github.com/Seraph1ne/LOLAutomationTools/releases/tag/v2.9.801.3452",
     "UpdateMessage": 
     [
         "更新版本：{0}",
         "更新内容：",
         "",
-        "- 修复了一些已知的问题",
+        "- 移除了局内喊话及相关的战绩发送功能",
+        "- 修复了一些问题",
         "",
         "",
         "即将打开更新地址"
@@ -14,9 +15,3 @@
     "ShouldCheckUpdate": true,
     "ForceUpdate": false
 }
-
-
-
-
-
-
